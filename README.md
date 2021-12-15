@@ -4,28 +4,23 @@
 ***아마추어퀀트(Amateur Quant)-조성현 : https://blog.naver.com/chunjein***
 
 ---
-# 2장
+## 2장
+## 3장
+## 4장
+## 5장
 
 ---
+## Model
+### SentenPiece
 
-# 3장
+### Doc2vec
 
-# 4장
+### Seq2seq
 
-# 5장
+### Attention
 
-# Model
+### Transformer
 
-## SentenPiece
+### BERT
 
-## Doc2vec
-
-## Seq2seq
-
-## Attention
-
-## Transformer
-
-## BERT
-
-## GPT2
+### GPT2
